@@ -10,6 +10,9 @@
 
 ComplianceGuard AI reduces manual compliance work by 80% using intelligent agent coordination. Our multi-agent system provides real-time regulatory monitoring, automated gap analysis, and instant audit-ready reporting.
 
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/4c4b8782-85cd-4724-bea5-eb32f5b4b7fe" />
+
+
 ## ✨ Features
 
 - **Multi-Agent Architecture**: Sequential + parallel + loop agents
@@ -22,6 +25,25 @@ ComplianceGuard AI reduces manual compliance work by 80% using intelligent agent
 ## 🛠️ Quick Start
 
 ### Installation
+
+## Code Structer
+
+complianceguard-ai/
+├── 📁 agents/
+├── 📁 tools/
+├── 📁 memory/
+├── 📁 deployment/
+├── 📁 tests/
+├── 📁 docs/
+├── 📁 examples/
+├── 📁 data/
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📄 setup.py
+├── 📄 .gitignore
+├── 📄 LICENSE
+├── 📄 config.yaml
+└── 📄 main.py
 
 ```bash
 git clone https://github.com/yourusername/complianceguard-ai
